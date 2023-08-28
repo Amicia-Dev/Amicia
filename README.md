@@ -1,2 +1,2 @@
 - 👋 Hi
-- 📫 x1tech.dev@gmail.com
+- 📫 Contact: x1tech.dev@gmail.com
