@@ -46,7 +46,9 @@
 
 ###
 
-<img align="right" height="200" src="https://amicia.rf.gd/amicia.gif"  />
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://amicia.rf.gd)
+" target="_blank"><img src="https://amicia.rf.gd/amicia.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###
 
