@@ -46,13 +46,8 @@
 
 ###
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://amicia.rf.gd)
-" target="_blank"><img src="https://amicia.rf.gd/amicia.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-###
-
-<img src="https://raw.githubusercontent.com/Amicia-Dev/Amicia-Dev/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://amicia.rf.gd/amicia.png"  />
 
 ###
 
