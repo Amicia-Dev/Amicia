@@ -46,8 +46,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="right" height="150" src="https://amicia.rf.gd/amicia.png"  />
+<img align="right" height="150" src="https://i.imgflip.com/8d50gx.gif"  />
 
 ###
 
