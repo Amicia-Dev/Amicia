@@ -42,8 +42,9 @@
   <a href="mailto:x1tech.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-    [My Website](https://amicia.rf.gd/amicia.png)
 </div>
+
+My [Website](https://amicia.rf.gd/).
 
 ###
 
