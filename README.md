@@ -36,7 +36,11 @@
 ###
 
 <br>
+
 My [Discord](https://discordapp.com/users/457706754847801355)
+
+###
+
 My [Website](https://amicia.rf.gd/)
 
 ###
