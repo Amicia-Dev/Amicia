@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amicia. Welcome to my little corner of the interwebs!</h2>
+<h2 align="left">Hi 👋! My name is Amicia. Welcome to my corner of the interwebs!</h2>
 
 ###
 
